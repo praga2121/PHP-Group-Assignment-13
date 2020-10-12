@@ -24,8 +24,8 @@ Report requirement:
 • Arrange your report sections in following sequence:
 
  Table of contents
-• Section 1: Introduction
-• Section 2: System screen capture of every web page in detail
+ • Section 1: Introduction
+ • Section 2: System screen capture of every web page in detail
 with explanation of features.
 • Section 3: Excerpt of codes and technical explanation of
 codes. Excerpt of codes should be arranged and explained
