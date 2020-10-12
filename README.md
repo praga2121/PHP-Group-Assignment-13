@@ -23,7 +23,7 @@ Report requirement:
 • The report format should be: 1.5 spacing, Arial 12
 • Arrange your report sections in following sequence:
 
-Table of contents:
+Table of contents for report:
 1. Introduction.
 2. System screen capture of every web page in detail with explanation of features.
 3. Excerpt of codes and technical explanation of codes. Excerpt of codes should be arranged and explained from highest complexity to lowest.
