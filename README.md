@@ -36,12 +36,12 @@ functionality/forms validation/error handling and etc.
 • Section 6: Conclusion
 
 Table of contents:
-• Section 1: Introduction.
-• Section 2: System screen capture of every web page in detail with explanation of features.
-• Section 3: Excerpt of codes and technical explanation of codes. Excerpt of codes should be arranged and explained from highest complexity to lowest.
-• Section 4: Screenshot of testing evidence on the functionality /forms validation/error handling and etc.
-• Section 5: Screenshot of database design.
-• Section 6: Conclusion.
+1. Introduction.
+2. System screen capture of every web page in detail with explanation of features.
+3. Excerpt of codes and technical explanation of codes. Excerpt of codes should be arranged and explained from highest complexity to lowest.
+4. Screenshot of testing evidence on the functionality /forms validation/error handling and etc.
+5. Screenshot of database design.
+6. Conclusion.
 
 Current Members:
 1. Maksym Demidov
