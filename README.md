@@ -3,10 +3,10 @@
 Develop a College Portal website. 
 
 Required Features:
-• Display a list of at least 5 colleges with their information.
-• Allow search and comparison of the colleges base on various criteria
-• Admin can submit information of a college to the portal.
-• Users can rate/review the colleges
+- Display a list of at least 5 colleges with their information.
+- Allow search and comparison of the colleges base on various criteria
+- Admin can submit information of a college to the portal.
+- Users can rate/review the colleges
 
 
 You are strongly encouraged to implement more features than what is specified above
