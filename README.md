@@ -6,5 +6,5 @@
 2. Use CSS vairables. Give your variables a proper name to reflect what they are responsible for. 
 Read more on [dev.moz](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
-3. After you finish your task, create a pull request to this directory. [How to create pull request](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request)
+3. After you finish your task, create a pull request to this repository. [How to create pull request](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request)
 
