@@ -1,6 +1,6 @@
-#Develop a College Portal website. 
+# Develop a College Portal website. 
 
-##Required Features:
+## Required Features:
 - Display a list of at least 5 colleges with their information.
 - Allow search and comparison of the colleges base on various criteria
 - Admin can submit information of a college to the portal.
@@ -12,11 +12,11 @@ to score higher grade.
 
 The code needs to be able to execute and output can be seen using Google Chrome.
 
-##GitHub Repository
+## GitHub Repository
 You must create a GitHub repository that contains all source codes for your website.
 You must include the URL of your repository on the cover page of your report.
 
-##Report requirement:
+## Report requirement:
 - The word limit for your report is 2,500 words.
 - The report format should be: 1.5 spacing, Arial 12
 - Arrange your report sections in following sequence:
@@ -28,7 +28,7 @@ You must include the URL of your repository on the cover page of your report.
   6. Screenshot of database design.
   7. Conclusion.
 
-##Current Members:
+## Current Members:
 1. Maksym Demidov
 2. Andrea Tantay Gonzales
 3. Daniel Irzan Lim
